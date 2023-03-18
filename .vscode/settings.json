@@ -9,5 +9,4 @@
     "python.testing.pytestEnabled": false,
     "python.testing.unittestEnabled": true,
     "chatgpt.gpt3.apiKey": "$ cd openai-quickstart-node",
-    "java.test.editor.enableShortcuts": true
-}
+        'c:/Python311
